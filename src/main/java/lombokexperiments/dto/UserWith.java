@@ -1,8 +1,12 @@
 package lombokexperiments.dto;
 
 public class UserWith {
+
     String name;
     String password;
+
+//    public UserWith() {
+//    }
 
     public String getName() {
         return name;

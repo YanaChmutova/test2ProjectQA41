@@ -4,83 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddf1798-53d9-4e10-8867-4877aa317cb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="0cefc044-a0ec-4373-b5f9-49ae47909eac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test-output/Suite1/MyFirstTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite1/MyFirstTest.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2cPz80XFojHTqDT4UvhCcx7pzLm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2cuRf801sw5TtqA5it1CbeiwfQk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.Test2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/yana/IdeaProjects/QA41/Test1302",
-    "onboarding.tips.debug.path": "C:/Users/yana/IdeaProjects/QA41/test2ProjectQA41/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/yana/IdeaProjects/QA41/clone/src/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MyFirstStartChrome.test_start.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.Test2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="test2ProjectQA41" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+}</component>
+  <component name="RunManager" selected="TestNG.MyFirstStartChrome.test_start">
+    <configuration name="C:/Users/yana/IdeaProjects/QA41/clone/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testProjectQA41" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test2ProjectQA41" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test2" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="MyFirstStartChrome.test_start" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testProjectQA41" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MyFirstStartChrome" />
+      <option name="METHOD_NAME" value="test_start" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test2" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.MyFirstStartChrome.test_start" />
+        <item itemvalue="TestNG.C:/Users/yana/IdeaProjects/QA41/clone/src/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -94,11 +82,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bddf1798-53d9-4e10-8867-4877aa317cb9" name="Changes" comment="" />
-      <created>1708027842635</created>
+      <changelist id="0cefc044-a0ec-4373-b5f9-49ae47909eac" name="Changes" comment="" />
+      <created>1708959578643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708027842635</updated>
+      <updated>1708959578643</updated>
     </task>
     <servers />
   </component>

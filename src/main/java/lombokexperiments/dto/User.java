@@ -1,6 +1,7 @@
 package lombokexperiments.dto;
 
 public class User {
+
     String name;
     String password;
 
@@ -24,7 +25,4 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
-
 }
-
-

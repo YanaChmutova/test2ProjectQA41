@@ -2,7 +2,7 @@ public class ExceptionExample {
     public static void main(String[] args) {
         System.out.println(1);
 
-        boolean flag = false;
+boolean flag = false;
         try {
             double a = 7/0;
             flag = true;
