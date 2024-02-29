@@ -11,5 +11,6 @@ public class MyFirstStartChrome {
         WebDriver driver = new ChromeDriver();
         driver.navigate().to("https://demoqa.com/");
         Thread.sleep(10000);
+        driver.quit();
     }
 }
